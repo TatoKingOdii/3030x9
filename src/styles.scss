@@ -82,7 +82,10 @@ app-root {
   flex: 1;
   height: 100%;
 }
-app-dashboard {
+app-dashboard,
+app-nav-content,
+app-nav-container
+{
   height: 100%;
 }
 
